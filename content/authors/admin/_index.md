@@ -55,7 +55,7 @@ education:
   - area: Bachelor in Accounting
     institution: Politeknik Keuangan Negara STAN
     date_start: 2016-08-01
-    date_end: 2018-04-31
+    date_end: 2018-04-30
     summary: |
       Ministry of Finance Scholarship
 
