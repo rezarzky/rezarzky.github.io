@@ -36,6 +36,8 @@ profiles:
     url: https://github.com/rezarzky
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rezarzky
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0001-6612-6034
 
 education:
   - area: Master of Science in Computational Analysis and Public Policy
@@ -43,7 +45,7 @@ education:
     date_start: 2022-08-01
     date_end: 2024-06-01
     summary: |
-      Exploring the Artificial Intelligence for Public Policy.
+      Exploring the Artificial Intelligence, Social Science and Pubic Policy.
 
       Teaching Assistant for:
       - Computer Science with Applications 1
@@ -68,6 +70,12 @@ work:
     date_end: ''
     summary: |2-
       ---
+
+certifications:
+  - Certified Information Systems Auditor
+  - Certified Ethical Hacker
+  - Tableau Author
+  - Certified Associate in Python Programming
 
 
 # Skills
